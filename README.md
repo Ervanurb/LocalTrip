@@ -42,5 +42,6 @@ LocalTrip, modern web standartlarına uygun ve sağlam bir mimariyle geliştiril
 * **Frontend (Kullanıcı Arayüzü):** HTML5, CSS3, JavaScript
     * **Bootstrap 4.5.2:** Duyarlı ve modern bir kullanıcı arayüzü için sektör standardı bir CSS framework'ü kullanılmıştır, bu da LocalTrip'in farklı cihazlarda (masaüstü, tablet, mobil) harika görünmesini sağlar.
     * **jQuery 3.5.1 ve Popper.js 1.16.1:** Bootstrap'in JavaScript bileşenlerinin (örneğin açılır menüler, navigasyon barı toggles) düzgün çalışmasını sağlayan temel kütüphanelerdir.
- 
+ #Sitenin Ekran Görüntüleri
+      ![Alt Metin](gorsel_yolu/gorsel_adi.jpg)
       ![Alt Metin](gorsel_yolu/gorsel_adi.jpg)
