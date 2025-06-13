@@ -1,6 +1,8 @@
 # LocalTrip: Kişisel Gezi ve Etkinlik Planlama Asistanınız
 
 LocalTrip, seyahat planlamanızı ve yerel etkinliklerinizi keşfetmenizi kolaylaştıran, kişisel bir web uygulamasıdır. Artık dağınık notlara veya birden fazla uygulamaya ihtiyacınız yok; tüm gezi ve favori etkinliklerinizi tek bir yerden, kolayca yönetebilirsiniz. İster uzun bir tatil planlıyor olun, ister hafta sonu için yerel bir etkinlik arıyor olun, LocalTrip size rehberlik etmek için tasarlandı.
+Kullanmak için aşağıdaki bağlantıyı kullanabilirsiniz:
+http://95.130.171.20/~st22360859060/index.php
 
 ## LocalTrip Ne Yapar?
 
@@ -42,8 +44,13 @@ LocalTrip, modern web standartlarına uygun ve sağlam bir mimariyle geliştiril
 * **Frontend (Kullanıcı Arayüzü):** HTML5, CSS3, JavaScript
     * **Bootstrap 4.5.2:** Duyarlı ve modern bir kullanıcı arayüzü için sektör standardı bir CSS framework'ü kullanılmıştır, bu da LocalTrip'in farklı cihazlarda (masaüstü, tablet, mobil) harika görünmesini sağlar.
     * **jQuery 3.5.1 ve Popper.js 1.16.1:** Bootstrap'in JavaScript bileşenlerinin (örneğin açılır menüler, navigasyon barı toggles) düzgün çalışmasını sağlayan temel kütüphanelerdir.
-      
+
  # Sitenin Ekran Görüntüleri
- 
-      ![Ekran görüntüsü](EkranGörüntüsü1.png)
-      ![Ekran görüntüsü](EkranGörüntüsü2.png)
+### Ekran Görüntüsü 1
+
+![Uygulamanın Ana Sayfası](fotograf1.png)
+
+### Ekran Görüntüsü 2
+
+![Gezilerim Sayfası](fotograf2.png)
+
