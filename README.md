@@ -1,7 +1,7 @@
 # LocalTrip: Kişisel Gezi ve Etkinlik Planlama Asistanınız
 
 LocalTrip, seyahat planlamanızı ve yerel etkinliklerinizi keşfetmenizi kolaylaştıran, kişisel bir web uygulamasıdır. Artık dağınık notlara veya birden fazla uygulamaya ihtiyacınız yok; tüm gezi ve favori etkinliklerinizi tek bir yerden, kolayca yönetebilirsiniz. İster uzun bir tatil planlıyor olun, ister hafta sonu için yerel bir etkinlik arıyor olun, LocalTrip size rehberlik etmek için tasarlandı.
-Kullanmak için aşağıdaki bağlantıyı kullanabilirsiniz:
+Kullanmak için aşağıdaki bağlantıya tıklayın:
 http://95.130.171.20/~st22360859060/index.php
 
 ## LocalTrip Ne Yapar?
