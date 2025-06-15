@@ -25,7 +25,7 @@ LocalTrip ile hayalinizdeki gezileri adım adım gerçeğe dönüştürebilirsin
 
 ### 2. Favori Etkinlikleri Keşfetme ve Saklama
 
-Yerel etkinlikleri takip etmek ve kaçırmak istemediğiniz fırsatları kaydetmek artık çok kolay.
+Yerel etkinlikleri takip etmek ve kaçırmak istemediğiniz fırsatları kaydedebilirsiniz.
 
 * **Etkinlikleri Görüntüleme:** Platformdaki genel etkinlik listesini gezerek yeni ve ilginç aktiviteler keşfedin. Her etkinliğin başlığı, konumu, tarihi, detayları ve kategorisi gibi bilgilere ulaşabilirsiniz.
 * **Favorilere Ekleme:** Beğendiğiniz veya katılmayı düşündüğünüz bir etkinliği tek tıklamayla favorilerinize ekleyin. Bu özellik, size özel bir etkinlik "yapılacaklar" listesi oluşturmanızı sağlar.
